@@ -39,8 +39,8 @@ shopping-basket/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/shopping-basket-ts.git
-cd shopping-basket-ts
+git clone https://github.com/vsinh7/shopping.git
+cd shopping-basket
 ```
 
 ### 2. Install dependencies
